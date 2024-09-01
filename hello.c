@@ -16,10 +16,11 @@ int main(void){
 */
 
 /*vocabulary
-digraphs - /*
+digraphs
 C Preprocessor Directives - #include #define
 Octothorpe - #
 compiler - after preprocessing, compiler produces/translates C into assembly/machine code
 header file - .h: 
-s
+bytecode
+-Kiwi for function statistics
 */
